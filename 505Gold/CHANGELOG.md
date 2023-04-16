@@ -1,12 +1,34 @@
 # Changelog
 
-## v2.2.5b7
+## v2.4b13
+- Improved xml/shn parser
+- Skipped /disc and $RECYCLE.BIN in pkg subdirectories search
+
+## v2.4b12
+- Fixed USB Subdirectories path
+
+## v2.4b11
+- Fixed "Search Subdirectories" feature
+- Improved "Package Source" feature
+
+## v2.4b10
+- Improved FTP self decryption
+- Fixed cheat navigation after rest mode
+- Added "Search Subdirectories" and "Show Package Path" features in Debug Settings
+
+## v2.4b5
+- Added FTP Server v2.1 (Thanks to [hippie68](https://github.com/hippie68))
+- Added multi-cheats support
+- Added multi-firmware support [5.05 / 6.72 / 9.00]
+- Added package installer source settings
+
+## v2.3
+- Added [Plugins](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) support
+- Added FPS counter
 - Added TitleId label feature
 - Added MC4 cheat format support
-- Improved FPS counter
-
-## v2.2.5
-- Added FPS counter
+- Added Scanlines overlay
+- Added internal pkg installation support (/data/pkg) (Thanks to [OSM](https://github.com/OSM-Made)) 
 
 ## v2.2.4
 - Fixed KLog tty redirect
