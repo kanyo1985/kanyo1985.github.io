@@ -1,5 +1,28 @@
 # Changelog
 
+## v2.4b16.2
+- Improved SysInfo stats
+- Fixed IP Address setting
+
+## v2.4b16
+- Fixed IP Address overlay position bug 
+
+## v2.4b15
+- Improved plugin loader (Thanks to [illusion0001](https://github.com/illusion0001))
+- Improved FTP (Thanks to [hippie68](https://github.com/hippie68))
+- Added game patch plugin (Thanks to [illusion0001](https://github.com/illusion0001))
+- Added game overlay SysInfo (Thanks to [OSM](https://github.com/OSM-Made))
+- Added GoldHEN top supporters page in about section (Thanks to all) 
+
+## v2.4b14
+- Improved plugin loader (Thanks to [illusion0001](https://github.com/illusion0001))
+- Improved FTP (Thanks to [hippie68](https://github.com/hippie68))
+- Improved MC4 support (Thanks to [ctn](https://github.com/ctn123))
+- Added cheat description support (Thanks to [ctn](https://github.com/ctn123))
+- Added background package installation support
+- Added package info on package installation support
+- Fixed Orbis Toolbox support 
+
 ## v2.4b13
 - Improved xml/shn parser
 - Skipped /disc and $RECYCLE.BIN in pkg subdirectories search

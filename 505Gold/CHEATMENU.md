@@ -18,7 +18,7 @@ While we make every effort to deliver high quality products, we do not guarantee
 - `↑` / `↓` to highlight cheat.
 - `X` to Toggle cheat `On`/`Off`.
 - `L1` / `R1` to switch between cheat files.
-- **Note:** Note: `L1` / `R1` is disabled when cheats are active.
+- **Note:** `L1` / `R1` is disabled when cheats are active.
 
 ### Storage:
 - Use `FTP` to upload cheat files to:
@@ -31,8 +31,15 @@ While we make every effort to deliver high quality products, we do not guarantee
   - e.g. `CUSA001234_01.01.mc4`
  - **Note:** Maximum of 8 cheat files.
 
+### Format Changes:
+- Cheat descriptions:
+  - json: Add a 'description' field to the cheat.
+    - e.g. "description": "test",
+  - shn/mc4: Add a 'Description' attribute to the cheat.
+    - e.g. &lt;Cheat Text="HP" Description="sample text"&gt;
+- **Note:** Only visible when in focus.
+
 ### To Do:
-- Add multiple cheats support.
 - Add more formats.
 
 ### Credits
