@@ -1,5 +1,6 @@
 CACHE MANIFEST 
 # v1.0.0 Self-Host 
+
 AppToUsb.bin
 binloader.js
 cal.js
